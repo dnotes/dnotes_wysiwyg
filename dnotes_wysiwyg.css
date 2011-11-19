@@ -1,0 +1,7 @@
+/* $Id$ */
+
+/* Editing forms */
+div.form-textarea-wrapper span, span.cke_skin_kama {border:none;padding:0px;}
+.wysiwyg-toggle-wrapper {font-size:10px;font-weight:bold;height:0;position:relative;top:-16px;left:5px;}
+td.cke_bottom {padding-left:126px;border:none;}
+td.cke_bottom div {border-left:1px solid #b2b2b2;}

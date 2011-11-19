@@ -1,0 +1,8 @@
+; $Id$
+name = DNotes Wysiwyg Setup
+description = Default settings for wysiwyg and input filters
+package = wysiwyg
+core = 7.x
+dependencies[] = wysiwyg
+dependencies[] = media
+stylesheets[all][] = dnotes_wysiwyg.css
