@@ -1,7 +1,7 @@
 ; $Id$
 name = DNotes Wysiwyg Setup
-description = Default settings for wysiwyg and input filters
-package = wysiwyg
+description = <a href="http://dnotes.net">DNotes</a> default settings for wysiwyg and input filters
+package = User interface
 core = 7.x
 dependencies[] = wysiwyg
 dependencies[] = media
