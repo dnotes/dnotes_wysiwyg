@@ -124,6 +124,7 @@ function _dnotes_wysiwyg_install_settings() {
           'Unlink' => 1,
           'Blockquote' => 1,
           'ShowBlocks' => 1,
+          'RemoveFormat' => 1,
           'Format' => 1,
           'Find' => 1,
           'Replace' => 1,
