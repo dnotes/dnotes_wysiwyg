@@ -5,4 +5,5 @@ package = User interface
 core = 7.x
 dependencies[] = wysiwyg
 dependencies[] = media
+dependencies[] = media_youtube
 stylesheets[all][] = dnotes_wysiwyg.css
